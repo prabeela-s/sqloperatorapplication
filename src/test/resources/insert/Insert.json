@@ -1,0 +1,11 @@
+{
+  "table": {
+    "table": "audit",
+    "schema": "PAYMENTS_DEV"
+  },
+  "values": {
+    "eventType": "UPDATED_DATE",
+    "eventDate": "2020-01-01T23:28:56.782Z",
+    "userId": 100
+  }
+}
